@@ -1,0 +1,13 @@
+# IntelliJ
+out/
+.idea/
+
+# Scala
+*.class
+target/
+
+# mac
+.DS_Store
+
+# sbt
+.history
